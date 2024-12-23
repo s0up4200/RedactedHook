@@ -1,6 +1,6 @@
 # RedactedHook
 
-> \[!INFO]
+> \[!NOTE]
 >
 > RedactedHook's functionality is now integrated directly into autobrr. RedactedHook was a Go-based companion service designed to enhance autobrr's filtering capabilities for RED and OPS, specifically by checking uploader names, and record labels associated with torrents. This feature is now a native part of autobrr.
 
